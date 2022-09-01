@@ -1,1 +1,1 @@
-I am learning the basics of shell navigation
+I am learning the basics of shell programming 
