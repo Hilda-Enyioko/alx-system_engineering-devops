@@ -1,2 +1,2 @@
 #!/bin/bash
-cat [a-z]*
+cat [a-z]* /etc/ssh/sshd_config
