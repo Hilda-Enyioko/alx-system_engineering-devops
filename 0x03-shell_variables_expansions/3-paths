@@ -1,2 +1,2 @@
 #!/bin/bash
-find /path/to/directory | wc -l
+echo $(printf $PATH | tr ":" "\n" | wc -w)
